@@ -1,1 +1,1 @@
-# IIITH-lab
+# IIITH-assignment1
